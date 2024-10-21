@@ -28,4 +28,4 @@ This project was completed as part of the Google Business Intelligence course. T
 - [Tableau Public Dashboard: Call Trends and Insights](https://public.tableau.com/views/CourseProjectGoogleFiberRepeatCallTrendsandInsights/Tables?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Use:
-To explore the data, open the 
+To explore the data, open the datasets in the `/data/datasets` directory. You can also view the SQL script used to union the datasets together in the `/scripts` directory and the Tableau dashboards linked above to see the visual analysis.
