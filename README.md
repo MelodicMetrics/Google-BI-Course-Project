@@ -20,8 +20,8 @@ This project was completed as part of the Google Business Intelligence course. T
 - `/docs`: Contains key project documents
   - `dashboard_details.pdf`: Breaks down details of the dashboard and its functionality
   - `strategy_document.pdf`: Outlines the basic strategy used when creating visualizations
-  - `stakeholder_requirements.pdf`: Outlines the business problem to be solved along with key stakeholders and their requirements for the final dash
-  - `project_requirements.pdf`: Outlines the purpose of the project along with critieria of success
+  - `stakeholder_requirements.pdf`: Outlines the business problem to be solved along with key stakeholders and their requirements for the final dashboard
+  - `project_requirements.pdf`: Outlines the purpose of the project along with criteria of success
 
 
 ## Dashboard Documentation
@@ -39,3 +39,13 @@ For a more detailed breakdown of the dashboard's insights, features, tabs, and d
 
 ## How to Use:
 To explore the data, open the datasets in the `/data/datasets` directory. You can also view the SQL script used to union the datasets together in the `/scripts` directory. The Tableau dashboards linked above provide visual analysis with drill-down functionality, allowing users to explore detailed insights by market and problem type.
+
+## Call to Action
+Feel free to explore the data and dashboard, or reach out if you have any questions or feedback on the analysis!
+
+- You can contact me at: [my email](miles.databi@gmail.com).
+- Connect with me on [LinkedIn](www.linkedin.com/in/miles-m-davidson)!
+
+Thank you for taking the time to explore my project!
+
+
