@@ -18,7 +18,6 @@ This project was completed as part of the Google Business Intelligence course. T
 - `/insights`: Executive summary and key findings
   - `Google_Fiber_Presentation_Slides.pdf`: Executive summary slide deck with key insights and recommendations from the project.
 - `/visualizations`: Tableau dashboards and chart screenshots and visual representations
-  - 
 
 ## Key Insights:
 - Problem Type 5 (Internet/WiFi Issues) saw a significant 21.24% increase in first repeat calls from January to February, despite an 8.18% decrease in initial calls. This suggests ongoing infrastructure challenges leading to unresolved customer issues.
