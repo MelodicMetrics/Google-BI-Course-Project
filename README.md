@@ -15,8 +15,10 @@ This project was completed as part of the Google Business Intelligence course. T
   - `Unioned Markets Through BigQuery.csv`: Combined dataset from all markets (after union operation)
 - `/scripts` BigQuery SQL scripts used to data transformation and analysis
   - `union_datasets.sql`: SQL query used to union the datasets across Market 1, Market 2, and Market 3
-- `/insights` : Executive summary and key findings
-- `/visualizations`: Tableau dashboards and charts
+- `/insights`: Executive summary and key findings
+  - `Google_Fiber_Presentation_Slides.pdf`: Executive summary slide deck with key insights and recommendations from the project.
+- `/visualizations`: Tableau dashboards and chart screenshots and visual representations
+  - 
 
 ## Key Insights:
 - Problem Type 5 (Internet/WiFi Issues) saw a significant 21.24% increase in first repeat calls from January to February, despite an 8.18% decrease in initial calls. This suggests ongoing infrastructure challenges leading to unresolved customer issues.
@@ -25,7 +27,7 @@ This project was completed as part of the Google Business Intelligence course. T
 - Midweek Trends: Call volumes on Wednesdays and Thursdays increased over time, with Wednesday surpassing Monday as the peak call day by March. This suggests a potential need for resource reallocation during midweek to manage call volumes more effectively and prevent repeat calls due to staffing shortages.
 
 ## Link to Tableau Dashboards:
-- [Tableau Public Dashboard: Call Trends and Insights](https://public.tableau.com/views/CourseProjectGoogleFiberRepeatCallTrendsandInsights/Tables?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau Public Dashboard: Google Fiber Q1 Call Trends and Analysis](https://public.tableau.com/views/CourseProjectGoogleFiberRepeatCallTrendsandInsights/Tables?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Use:
 To explore the data, open the datasets in the `/data/datasets` directory. You can also view the SQL script used to union the datasets together in the `/scripts` directory and the Tableau dashboards linked above to see the visual analysis.
