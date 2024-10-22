@@ -43,8 +43,8 @@ To explore the data, open the datasets in the `/data/datasets` directory. You ca
 ## Call to Action
 Feel free to explore the data and dashboard, or reach out if you have any questions or feedback on the analysis!
 
-- You can contact me at: [my email](miles.databi@gmail.com).
-- Connect with me on [LinkedIn](www.linkedin.com/in/miles-m-davidson)!
+- You can contact me at: [Email](mailto:miles.databi@gmail.com).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/miles-m-davidson)!
 
 Thank you for taking the time to explore my project!
 
